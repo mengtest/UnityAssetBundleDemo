@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2912869753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93454cf83565eac6679aed8becdc83e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 687e69b670cde8559d26fe8b3eca4d21
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/Materials/Mat1.mat
+Dependencies:
+- Assets/StreamingAssets/AssetBundle/texture/jushiguai_01.unity3d

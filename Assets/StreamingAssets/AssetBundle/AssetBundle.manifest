@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube1.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: cube2.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: jushiguai.unity3d
+      Dependencies:
+        Dependency_0: materials/mat1.unity3d
+        Dependency_1: materials/mat2.unity3d
+        Dependency_2: materials/standard_13.unity3d
+    Info_3:
+      Name: materials/mat1.unity3d
+      Dependencies:
+        Dependency_0: texture/jushiguai_01.unity3d
+    Info_4:
+      Name: materials/mat2.unity3d
+      Dependencies:
+        Dependency_0: texture/jushiguai_02.unity3d
+    Info_5:
+      Name: materials/standard_13.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: texture/jushiguai_01.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: texture/jushiguai_02.unity3d
+      Dependencies: {}

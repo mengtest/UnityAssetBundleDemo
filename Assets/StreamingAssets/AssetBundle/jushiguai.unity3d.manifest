@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 562829062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b6ff186906459ac30b11f3abecac69b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4633b76819e86b628f41afbc726d108a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/JuShiGuai.prefab
+Dependencies:
+- Assets/StreamingAssets/AssetBundle/materials/mat1.unity3d
+- Assets/StreamingAssets/AssetBundle/materials/mat2.unity3d
+- Assets/StreamingAssets/AssetBundle/materials/standard_13.unity3d
